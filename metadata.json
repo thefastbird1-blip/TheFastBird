@@ -1,0 +1,7 @@
+{
+  "name": "The Fast Bird Shipping",
+  "description": "A sleek, professional, and bilingual website for 'The Fast Bird' shipping company, featuring a Gemini-powered chatbot, order placement, and contact forms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
